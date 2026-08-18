@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, im Lebogang 👋
 
-<!--
-**lebogangmohau2-alt/lebogangmohau2-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+* 🔬 Currently studying Bsc Life Sciences
+* 💻 Learning SQL programming & data cleaning techniques
+* 🎯 Looking to collaborate on data analysis or science projects
 
-Here are some ideas to get you started:
+ Skills & Tools
+Languages & Querying: SQL, Power Bi, Excel, python
+Domain Focus: Laboratory assays, experimental data processing, data cleaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+LinkedIn:[www.linkedin.com/in/lebogang-mohau-5b76a43b1]
+Email: lebogangmohau2@mail.com
