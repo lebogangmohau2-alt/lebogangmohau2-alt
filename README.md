@@ -12,3 +12,6 @@
 ## Get in Touch
 * **LinkedIn:** [Lebogang Mohau](https://www.linkedin.com/in/lebogang-mohau-5b76a43b1)
 * **Email:** lebogangmohau2@gmail.com
+**Tools:** Excel
+**[https://github.com/lebogangmohau2-alt/excel-data-cleaning]**
+**Description:** fixed invalid time formats and standardized clinical cohort data
